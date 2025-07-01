@@ -53,7 +53,7 @@ const Navbar = ({ darkMode, toggleTheme }) => {
               onClick={() => scrollToSection('home')}
             >
               <div className="ml-6 flex items-center justify-center transition-all duration-300 group-hover:drop-shadow-[0_0_16px_rgba(99,102,241,0.5)] group-hover:scale-110 animate-logo-float">
-                <img src="/images/Z-without-BG logo 2_[_00001.png" alt="ZENDERLA Logo" className="w-28 h-28 object-contain" />
+                <img src="/images/Z-without-BG logo 2_[_00001.png" alt="Zenderla Technologies Logo - Digital Solutions Tamil Nadu" className="w-28 h-28 object-contain" />
               </div>
             </div>
           </div>

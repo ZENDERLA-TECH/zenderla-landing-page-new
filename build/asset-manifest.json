@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2040c2fc.css",
-    "main.js": "/static/js/main.bcb274f9.js",
-    "index.html": "/index.html",
-    "main.2040c2fc.css.map": "/static/css/main.2040c2fc.css.map",
-    "main.bcb274f9.js.map": "/static/js/main.bcb274f9.js.map"
+    "main.css": "/ZENDERLA-LANDING-PAGE/static/css/main.2040c2fc.css",
+    "main.js": "/ZENDERLA-LANDING-PAGE/static/js/main.bcb274f9.js",
+    "index.html": "/ZENDERLA-LANDING-PAGE/index.html",
+    "main.2040c2fc.css.map": "/ZENDERLA-LANDING-PAGE/static/css/main.2040c2fc.css.map",
+    "main.bcb274f9.js.map": "/ZENDERLA-LANDING-PAGE/static/js/main.bcb274f9.js.map"
   },
   "entrypoints": [
     "static/css/main.2040c2fc.css",

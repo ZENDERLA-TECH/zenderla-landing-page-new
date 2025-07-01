@@ -44,7 +44,7 @@ const Product = () => {
               data-aos="zoom-in"
               data-aos-delay={idx * 100}
             >
-              <img src={product.image} alt={product.title} className="w-20 h-20 object-contain mb-4 rounded-xl shadow-md" />
+              <img src={product.image} alt={`Zenderla Product: ${product.title}`} className="w-20 h-20 object-contain mb-4 rounded-xl shadow-md" />
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-gradient transition-colors duration-300">
                 {product.title}
               </h3>
