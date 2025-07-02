@@ -105,7 +105,7 @@ const Contact = ({ darkMode }) => {
                     Email
                   </h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    zenderlatechnologies@gmail.com
+                    zenderlatech@gmail.com
                   </p>
                 </div>
               </div>
@@ -121,7 +121,7 @@ const Contact = ({ darkMode }) => {
                     Phone
                   </h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    9487284227
+                    +91 9487284227
                   </p>
                 </div>
               </div>
